@@ -28,6 +28,8 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
+
+
 #### Episode 2
 
 ```js
